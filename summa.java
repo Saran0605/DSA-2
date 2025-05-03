@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class summa {
     public static void main(String[] args) {
         Float a = Float.MIN_VALUE;
@@ -10,6 +12,9 @@ public class summa {
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
+
+        String[] arr = {"hi","hello"};
+        System.out.println(Arrays.toString(arr));
 
 
 

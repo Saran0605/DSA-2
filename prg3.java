@@ -1,4 +1,5 @@
 public class prg3 {
+
     public static void main(String[] args) {
         int[] arr = {18,12,-7,3,14,20};
         System.out.println(mini(arr));
@@ -16,5 +17,4 @@ public class prg3 {
         }
         return ans;
     }
-    
-}
+}   

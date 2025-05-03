@@ -10,6 +10,7 @@ public class prg1 {
 
 
     }
+    
     static int linear(int[] nums,int target){
         //for initally checking the array is empty or not
         if(nums.length==0){

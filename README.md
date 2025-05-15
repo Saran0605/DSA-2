@@ -12,14 +12,7 @@ Each topic is organized clearly to demonstrate consistent practice, logic buildi
 - ✅ Sorting Algorithms (Bubble, Selection, Merge, Quick, Counting)
 - ✅ Recursion & Backtracking
 - ✅ Binary Search & Its Variations
-- ✅ Stack, Queue, Linked List
-- ✅ Trees & Binary Trees
-- ✅ Binary Search Trees (BST)
-- ✅ Hashing & HashMaps
-- ✅ Sliding Window, Two Pointers
-- ✅ Greedy Algorithms
-- ✅ Graphs (BFS, DFS)
-- ✅ Dynamic Programming (Tabulation + Memoization)
+
 
 ---
 
@@ -29,28 +22,6 @@ Each topic is organized clearly to demonstrate consistent practice, logic buildi
 - **IDE**: IntelliJ / VSCode / Eclipse
 - **Compiler**: javac / JDK 17+
 
----
-
-## 📁 Folder Structure
-
-/arrays
-/strings
-/sorting
-/recursion
-/binary-search
-/linked-list
-/stack-queue
-/trees
-/graphs
-/dynamic-programming
-
-yaml
-Copy
-Edit
-
-Each folder contains `.java` files with meaningful names and inline comments to explain the logic.
-
----
 
 ## 💡 Highlights
 

@@ -29,3 +29,5 @@ public class prg14 {
     }
     
 }
+
+//time Complexity = O(n^2) Always Worst nga this is😂

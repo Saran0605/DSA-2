@@ -27,5 +27,6 @@ public class prg13 {
     
 }
 
+
 //time Complexity = O(n^2) Always Worst nga this is😂
 //may be sorted vantha O(n) we can tryyyyy...😶‍🌫️

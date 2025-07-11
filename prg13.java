@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class prg13 {
     public static void main(String[] args) {
-        int arr[] = {-34,-12,9,0,45};
+        int arr[] = {5,4,2,1,3};
         bubble(arr);
         System.out.println(Arrays.toString(arr));
     }
@@ -27,6 +27,6 @@ public class prg13 {
     
 }
 
-
 //time Complexity = O(n^2) Always Worst nga this is😂
 //may be sorted vantha O(n) we can tryyyyy...😶‍🌫️
+

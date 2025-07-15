@@ -1,6 +1,5 @@
 //finding missing number 
 
-import java.util.Arrays;
 
 public class a1 {
     public static void main(String[] args) {

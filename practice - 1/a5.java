@@ -6,7 +6,6 @@ public class a5{
         int[] arr1 = new int[arr.length];
         int i = arr.length-2;
         int max = arr[arr.length-1];
-        int j = 0;
         arr1[i+1] = -1;
         while(i>=0){
             arr1[i] = max;

@@ -21,9 +21,6 @@ public class z2 {
         }
         return heap.peek();
 
-        
-
-
     }
     
 }

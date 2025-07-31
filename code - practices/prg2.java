@@ -4,19 +4,6 @@ public class prg2 {
     public static void main(String[] args) {
         int [] arr = {1, 3, 5, 2, 8, 7, 4};
         quick(arr,0,arr.length-1);
-        int[] arr1 = new int[arr.length];
-        int left = 0,right = arr.length-1;
-        int i = 0;
-        while(left<right){
-            arr1[i] = arr[right];
-            i++;
-            arr1[i] = arr[left];
-            i++;
-            left++;
-            right--;
-        }
-        arr1[i] = arr[right];
-        System.out.println(Arrays.toString(arr1));
 
     }
     private static void quick(int[] arr,int start,int end){

@@ -1,6 +1,4 @@
-
 import java.util.Arrays;
-
 public class mat1 {
     public static void main(String[] args) {
         int[][] arr = {
